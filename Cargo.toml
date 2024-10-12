@@ -1,0 +1,10 @@
+[package]
+name = "space_invaders"
+version = "0.1.0"
+edition = "2021"
+authors = ["Matthew Oduamafu <mattoduamafu@gmail.com>"]
+
+[dependencies]
+crossterm = "0.28.1"
+rusty_audio = "1.4.1"
+rusty_time = "1.1.0"
